@@ -20,3 +20,6 @@
   
   
 <cite><a href="https://github.com/YusufOYusuf/Defending-Against-A-Buffer-Overflow-Attack/blob/main/README.md">*Defending Against A Buffer Overflow Attack
+  
+  
+<cite><a href="https://github.com/YusufOYusuf/Performing-Symmetric-Encryption/blob/main/README.md">*Performing Symmetric Encryption
