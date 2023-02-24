@@ -48,3 +48,17 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Using-the-chmod-command-/blob/main/README.md">*Using the chmod command
 
+  
+<cite><a href="https://github.com/YusufOYusuf/Examining-File-Manipulation-Commands/blob/main/README.md">*Examining File Manipulation Commands
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
