@@ -38,5 +38,9 @@
 
 
 <cite><a href="https://github.com/YusufOYusuf/Using-Rainbow-Tables/blob/main/README.md">*Using Rainbow Tables
+  
+  
+<cite><a href="https://github.com/YusufOYusuf/Examining-Kerberos-Settings/blob/main/README.md">*Examining Kerberos Settings
+
 
 
