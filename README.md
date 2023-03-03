@@ -60,6 +60,9 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-a-BPDU-Guard-on-a-Switch-Port/blob/main/README.md">*Configuring a BPDU Guard on a Switch Port
   
+
+<cite><a href="https://github.com/YusufOYusuf/Configuring-VLANs/blob/main/README.md">*Configuring VLANs
+  
   
   
   
