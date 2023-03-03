@@ -52,6 +52,9 @@
 <cite><a href="https://github.com/YusufOYusuf/Examining-File-Manipulation-Commands/blob/main/README.md">*Examining File Manipulation Commands
   
   
+<cite><a href="https://github.com/YusufOYusuf/Configuring-a-Standard-ACL/blob/main/README.md">*Configuring a Standard ACL
+  
+  
   
   
   
