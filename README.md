@@ -73,6 +73,9 @@
 <cite><a href="https://github.com/YusufOYusuf/Using-the-ifconfig-command/blob/main/README.md">*Using the ifconfig Command
   
   
+<cite><a href="https://github.com/YusufOYusuf/Using-the-traceroute-Command/blob/main/README.md">*Using the traceroute Command
+  
+  
   
   
   
