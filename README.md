@@ -94,7 +94,7 @@
 <cite><a href="https://github.com/YusufOYusuf/Viewing-Linux-event-logs-/blob/main/README.md">*Viewing Linux event logs
   
   
-  
+<cite><a href="https://github.com/YusufOYusuf/Making-Syslog-Entries-Readable/blob/main/README.md">*Making Syslog Entries Readable
   
   
   
