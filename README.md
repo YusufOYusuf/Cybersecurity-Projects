@@ -91,6 +91,9 @@
 <cite><a href="https://github.com/YusufOYusuf/Using-Reconnaissance-Tools/blob/main/README.md">*Using Reconnaissance Tools
   
   
+<cite><a href="https://github.com/YusufOYusuf/Viewing-Linux-event-logs-/blob/main/README.md">*Viewing Linux event logs
+  
+  
   
   
   
